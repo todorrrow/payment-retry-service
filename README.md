@@ -11,7 +11,7 @@ Lightweight Go service that simulates bank requests with retry-friendly processi
 Run locally:
 
 ```bash
-cd /Users/lazarus/Documents/payment-retry-service
+cd ../payment-retry-service
 go run .
 ```
 
